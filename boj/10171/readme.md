@@ -1,5 +1,4 @@
-
-				<section id="description" class="problem-section">
+<section id="description" class="problem-section">
 				<div class="headline">
 				<h2>문제</h2>
 				</div>
@@ -8,9 +7,7 @@
 
 				</div>
 				</section>
-			
-
-					<section id="input" class="problem-section">
+<section id="input" class="problem-section">
 					<div class="headline">
 					<h2>입력</h2>
 					</div>
@@ -19,9 +16,7 @@
 
 					</div>
 					</section>
-				
-
-					<section id="output" class="problem-section">
+<section id="output" class="problem-section">
 					<div class="headline">
 					<h2>출력</h2>
 					</div>
@@ -30,18 +25,14 @@
 
 					</div>
 					</section>
-				
-
-			<section id="limit" style="display:none;" class="problem-section">
+<section id="limit" style="display:none;" class="problem-section">
 			<div class="headline">
 			<h2>제한</h2>
 			</div>
 			<div id="problem_limit" class="problem-text">
 						</div>
 			</section>
-			
-
-				<div class="row">
+<div class="row">
 					<div class="col-md-6">
 						<section id="sampleinput1">
 						<div class="headline">
@@ -67,9 +58,7 @@
 						</section>
 					</div>
 									</div>
-				
-
-				<section id="hint" style="display: none;" class="problem-section">
+<section id="hint" style="display: none;" class="problem-section">
 				<div class="headline">
 				<h2>힌트</h2>
 				</div>
@@ -77,4 +66,3 @@
 				
 				</div>
 				</section>
-			
