@@ -36,7 +36,6 @@
 
 ```
 
-
 <div class="headline">
 <h2>예제 출력 1
 <button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-output-1">복사</button>
@@ -49,7 +48,6 @@
 (  /  )
  \(__)|
 ```
-
 
 <div class="headline">
 <h2>힌트</h2>
