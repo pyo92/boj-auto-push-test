@@ -6,7 +6,7 @@
 				<p>아래 예제와 같이 고양이를 출력하시오.</p>
 
 				</div>
-				</section> <section id="input" class="problem-section">
+				</section><section id="input" class="problem-section">
 					<div class="headline">
 					<h2>입력</h2>
 					</div>
@@ -14,7 +14,7 @@
 					<p>없음.</p>
 
 					</div>
-					</section> <section id="output" class="problem-section">
+					</section><section id="output" class="problem-section">
 					<div class="headline">
 					<h2>출력</h2>
 					</div>
@@ -22,13 +22,13 @@
 					<p>고양이를 출력한다.</p>
 
 					</div>
-					</section> <section id="limit" style="display:none;" class="problem-section">
+					</section><section id="limit" style="display:none;" class="problem-section">
 			<div class="headline">
 			<h2>제한</h2>
 			</div>
 			<div id="problem_limit" class="problem-text">
 						</div>
-			</section> <div class="row">
+			</section><div class="row">
 					<div class="col-md-6">
 						<section id="sampleinput1">
 						<div class="headline">
@@ -53,7 +53,7 @@
 </pre>
 						</section>
 					</div>
-									</div> <section id="hint" style="display: none;" class="problem-section">
+									</div><section id="hint" style="display: none;" class="problem-section">
 				<div class="headline">
 				<h2>힌트</h2>
 				</div>
