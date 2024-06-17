@@ -20,30 +20,30 @@
 <p>고양이를 출력한다.</p>
 </div>
 
-		<div class="headline">
-		<h2>제한</h2>
-		</div>
-		<div id="problem_limit" class="problem-text">
-	</div>
-		
-	<div class="headline">
-	<h2>예제 입력 1
-		<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-input-1">복사</button>
-	</h2>
-	</div>
-	<pre class="sampledata" id="sample-input-1"></pre>
-	
-	<div class="headline">
-	<h2>예제 출력 1
-		<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-output-1">복사</button>
-	</h2>
-	</div>
-	<pre class="sampledata" id="sample-output-1">\    /\
+<div class="headline">
+<h2>제한</h2>
+</div>
+<div id="problem_limit" class="problem-text">
+</div>
+
+<div class="headline">
+<h2>예제 입력 1
+<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-input-1">복사</button>
+</h2>
+</div>
+<pre class="sampledata" id="sample-input-1"></pre>
+
+<div class="headline">
+<h2>예제 출력 1
+<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-output-1">복사</button>
+</h2>
+</div>
+<pre class="sampledata" id="sample-output-1">\    /\
  )  ( ')
 (  /  )
  \(__)|
 </pre>
-	
+
 <div class="headline">
 <h2>힌트</h2>
 </div>
