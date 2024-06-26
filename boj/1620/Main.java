@@ -39,7 +39,6 @@ public class Main {
             }
         }
 
-
         bw.write(out.toString());
 
         bw.flush();
