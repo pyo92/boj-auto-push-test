@@ -3,7 +3,7 @@
 <h2>문제</h2>
 </div>
 <div id="problem_description" class="problem-text">
-<p><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201004/p1.PNG" style="height:184px; width:274px"></p>
+<p><img alt="" src="/upload/201004/p1.PNG" style="height:184px; width:274px"></p>
 <p>안녕? 내 이름은 이다솜. 나의 꿈은 포켓몬 마스터야. 일단 포켓몬 마스터가 되기 위해선 포켓몬을 한 마리 잡아야겠지? 근처 숲으로 가야겠어.</p>
 <p>(뚜벅 뚜벅)</p>
 <p>얏! 꼬렛이다. 꼬렛? 귀여운데, 나의 첫 포켓몬으로 딱 어울린데? 내가 잡고 말겠어. 가라! 몬스터볼~</p>
