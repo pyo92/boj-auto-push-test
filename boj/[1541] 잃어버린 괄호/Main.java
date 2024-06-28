@@ -65,10 +65,11 @@ public class Main {
                 switch (c) {
                     case '+':
                     case '-':
-                        //현재 연산자보다 우선순위가 같거나 낮은 (+, -) 연산자가 top 에 위치한다면 pop 해서 수식에 반영한다.
+                        //top 연산자를 비교했을 때, 현재 연산자의 우선순위가 더 커질 때까지 pop 해야한다.
+                        //하지만, 이번 문제는 +, - 연산자 밖에 없기 때문에 우선순위가 동일하고 괄호가 아닌 이상
+                        //모두 pop 해서 수식에 반영해야하는 것이다.
                         if (!op.isEmpty()) {
-                            char peek = op.peek();
-                            if (peek == '+' || peek == '-') {
+                            while (!op.isEmpty() && op.peek() != '(') {
                                 postfix.add(op.pop());
                             }
                         }
