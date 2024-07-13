@@ -1,4 +1,4 @@
-
+<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier">&nbsp;<span class="solvedac-tier-name-12"></span>
 <div class="headline">
 <h2>문제</h2>
 </div>
