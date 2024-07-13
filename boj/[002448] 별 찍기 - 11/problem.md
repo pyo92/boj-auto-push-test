@@ -1,4 +1,5 @@
-<img src = 'https://d2gd6pc034wcta.cloudfront.net/tier/12.svg' style="width: 20px"> &nbsp; $\Huge{\textsf{\color{#ec9a00}Gold Ⅳ}}$\n<br>
+<img src = 'https://d2gd6pc034wcta.cloudfront.net/tier/12.svg' style="width: 20px"> &nbsp; $\Huge{\textsf{\color{#ec9a00}Gold Ⅳ}}$
+<br>
 <h1>[<a href='https://www.acmicpc.net/problem/2448'>2448번</a>] 별 찍기 - 11</h1>
 <br>
 <br>
